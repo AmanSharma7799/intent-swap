@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@openzeppelin/*": ["node_modules/@openzeppelin/*"]
+    }
+  },
+  "include": ["./scripts", "./test"]
+}
