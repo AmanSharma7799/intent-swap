@@ -1,6 +1,6 @@
 # 🧠 IntentSwap – Intent-Based Token Swap Protocol (Inspired by CoW Swap)
 
-IntentSwap is a simplified proof-of-concept implementation of an **intent-based token swapping protocol** in Solidity. Instead of placing rigid on-chain orders, users sign **flexible off-chain intents**, which are later fulfilled by solvers through optimal routing or coincidence of wants.
+IntentSwap is a simplified proof-of-concept implementation of an **intent-based token swapping protocol** in Solidity. Instead of placing rigid on-chain orders, users sign **flexible off-chain intents**, which are later fulfilled by solvers through optimal routing or coincidence of wants (CoW) .
 
 ## ✨ Features
 
